@@ -1,0 +1,27 @@
+body{
+  height: 700px;
+  background-color: #0E1C52;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#buttonTeams {
+  display: flex;
+  justify-content: flex-end;
+}
+
+button {
+  color: white;
+  background-color: #0E1C52 ;
+  font-size: 40px;
+  width: 500px;
+  height: 90px;
+  border: none;
+  box-shadow: 6px 6px 12px 5px #37756D ;
+}
+
+p{
+  color: white;
+  font-size: 40px;
+}
